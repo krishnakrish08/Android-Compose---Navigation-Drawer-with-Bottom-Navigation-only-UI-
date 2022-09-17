@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Activity Task: To Do List</string>
+    <string name="title_activity_fruits_compose">FruitsComposeActivity</string>
+</resources>
